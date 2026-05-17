@@ -1,6 +1,6 @@
 - 👋 hi, i’m @akshara31
-- 👀 i’m interested in full stack development, website design and i express my creative side through ✨art✨
-- 🌱 i’m currently trying to master react and get a job:)
+- 👀 i’m interested in all things development and design and i express my creative side through ✨art✨
+- 🌱 i’m currently an aws data engineer :)
 - 📫 reach me on insta: @aksharaa.02
 - 🎨 check this out: www.instagram.com/artby.akshu/
 
